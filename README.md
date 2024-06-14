@@ -37,7 +37,6 @@ This application is designed for visitors of Ness Gardens, providing detailed in
 ### Important Note
 The app may require a restart when first run on a new device to function correctly.
 
-
 ## Must See Before Read My code
 * Operating System: macOS Sonoma
 * Programming Languages: Swift
@@ -45,9 +44,9 @@ The app may require a restart when first run on a new device to function correct
 
 ⚠Please adhere to the University's Academic Integrity Policy and I accept no responsibility for suspected academic misconduct of any kind.
 
- ## Module Specification
+## Module Specification
 * Year: 2023
-* Lectuer: Jimmieson Phil
+* Lectuer: Professor Jimmieson Phil
 
- ## Module Results
+## Module Results
 * Assignment: 96/100 (Thumbnail sizes need to be scaled a little to make them more aesthetically pleasing)
