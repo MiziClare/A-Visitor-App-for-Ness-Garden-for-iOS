@@ -30,7 +30,7 @@ This application is designed for visitors of Ness Gardens, providing detailed in
 5. **Error Handling:** Includes mechanisms to hide certain UI elements based on data conditions.
 
 ## How to Use
-1. **Startup:** Accept the location permission prompt upon first startup.
+1. **Startup:** Open it with your XCode. Accept the location permission prompt upon first startup.
 2. **Navigation:** Interact with the map and plant list on the main interface.
 3. **Favoriting Plants:** Toggle the favorite status by clicking the heart button on plant cells.
 
@@ -46,7 +46,7 @@ The app may require a restart when first run on a new device to function correct
 
 ## Module Specification
 * Year: 2023
-* Lectuer: Professor Jimmieson Phil
+* Lectuer: Mr Jimmieson Phil
 
 ## Module Results
 * Assignment: 96/100 (Thumbnail sizes need to be scaled a little to make them more aesthetically pleasing)
